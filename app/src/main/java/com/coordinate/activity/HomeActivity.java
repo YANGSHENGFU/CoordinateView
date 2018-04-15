@@ -74,7 +74,7 @@ public class HomeActivity extends Activity {
     }
 
     private void gg(){
-        
+
         Log.d("TAG" , "方法撤销一下");
 
     }

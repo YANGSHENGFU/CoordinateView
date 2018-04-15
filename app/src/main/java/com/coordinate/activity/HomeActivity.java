@@ -47,4 +47,11 @@ public class HomeActivity extends Activity {
         coordinateView.setMonth(1 , leNuber  ,wkNuber ,  5);
     }
 
+    /**
+     * 添加a方法
+     */
+    private void a(){
+
+    }
+
 }

@@ -62,8 +62,15 @@ public class HomeActivity extends Activity {
      * 添加b方法
      */
     private void b(){
+
         for( int i = 0 ; i < 100 ; i++ ){
         }
+
+
+    }
+
+    private void ff(){
+
     }
 
     private void gg(){

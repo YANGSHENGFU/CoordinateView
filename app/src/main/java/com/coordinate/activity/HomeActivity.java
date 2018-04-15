@@ -63,8 +63,11 @@ public class HomeActivity extends Activity {
      */
     private void b(){
         for( int i = 0 ; i < 100 ; i++ ){
-            Log.d("TAG" , "i = "+ i);
         }
+    }
+
+    private void gg(){
+        Log.d("TAG" , "方法撤销一下");
     }
 
 }

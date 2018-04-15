@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CoordinateView">
+        <attr name="zbbackground" format="color">#000000</attr>
+        <attr name="zb_color" format="color">#00ff00</attr>
+        <attr name="le_color" format="color">#000000</attr>
+        <attr name="wk_color" format="color">#000000</attr>
+        <attr name="text_size" format="dimension">9sp</attr>
+        <attr name="text_color" format="color">#ff0000</attr>
+    </declare-styleable>
+
+</resources>

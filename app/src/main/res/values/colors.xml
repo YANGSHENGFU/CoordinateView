@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="zbcolor">#00ff00</color>
+    <color name="zbbackground">#bbf3f3f3</color>
+    <color name="zb_textcolor">#00ff00</color>
+    <color name="lecolor">#0000ff</color>
+    <color name="wkcolor">#8844aa</color>
+</resources>

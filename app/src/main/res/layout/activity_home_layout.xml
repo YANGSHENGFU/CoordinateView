@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.coordinate.base.view.CoordinateView
+        app:le_color="@color/lecolor"
+        app:wk_color="@color/wkcolor"
+        app:text_size="5sp"
+        app:text_color="@color/zb_textcolor"
+        app:zbbackground="@color/zbbackground"
+        app:zb_color="@color/zbcolor"
+        android:id="@+id/coordinateView"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"/>
+
+</LinearLayout>

@@ -53,7 +53,9 @@ public class HomeActivity extends Activity {
      * 在awork分支上进行
      */
     private void a(){
-        for( int i = 0 ; i < 100 ; i++ ){
+
+        int i = 100 ;
+        while (i-->0){
             Log.d("TAG" , "i = "+ i);
         }
     }
@@ -76,6 +78,13 @@ public class HomeActivity extends Activity {
     private void gg(){
 
         Log.d("TAG" , "方法撤销一下");
+
+    }
+
+    /**
+     * 在aaa分支上添加 c 方法
+     */
+    private void c(){
 
     }
 

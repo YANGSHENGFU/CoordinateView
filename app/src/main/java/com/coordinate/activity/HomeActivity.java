@@ -3,6 +3,7 @@ package com.coordinate.activity;
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.util.Log;
 
 import com.coordinate.R;
 import com.coordinate.base.view.CoordinateView;
@@ -52,14 +53,18 @@ public class HomeActivity extends Activity {
      * 在awork分支上进行
      */
     private void a(){
-
+        for( int i = 0 ; i < 100 ; i++ ){
+            Log.d("TAG" , "i = "+ i);
+        }
     }
 
     /**
      * 添加b方法
      */
     private void b(){
-
+        for( int i = 0 ; i < 100 ; i++ ){
+            Log.d("TAG" , "i = "+ i);
+        }
     }
 
 }

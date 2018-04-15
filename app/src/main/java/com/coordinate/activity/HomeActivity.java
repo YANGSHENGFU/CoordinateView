@@ -49,6 +49,7 @@ public class HomeActivity extends Activity {
 
     /**
      * 添加a方法
+     * 在awork分支上进行
      */
     private void a(){
 
